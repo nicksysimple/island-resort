@@ -1,0 +1,26 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: blue;
+  text-overflow: clip;
+}
+.day {
+  width: 40%;
+  margin-left: 100px;
+  float: left;
+  border: 2px solid green;
+}
+.night {
+  border: 2px solid green;
+  margin-right: 100px;
+  float: right;
+  width: 40%;
+}
