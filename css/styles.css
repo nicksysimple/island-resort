@@ -1,0 +1,27 @@
+h1 {
+  color: white;
+}
+h2 {
+color: white;
+}
+body {
+background-color: skyblue;
+}
+.About {
+  color: green;
+  width: 30%;
+  float: left;
+  margin-left: 100px;
+  font-family: serif;
+}
+.Help {
+  color: green;
+  margin-right: 100px;
+  float: right;
+  font-family: serif;
+  width: 30%;
+}
+}
+.container-fluid{
+  margin-left: auto;
+}
