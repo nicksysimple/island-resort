@@ -6,7 +6,6 @@ color: white;
 }
 h3 {
   color: blue;
-
 }
 body {
 background-color: skyblue;
@@ -27,8 +26,6 @@ background-color: skyblue;
   font-family: serif;
   width: 30%;
 }
-}
 .container-fluid{
-  border: 2px solid black;
-
+margin-left: 600px;
 }
